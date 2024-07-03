@@ -5,22 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3527e287-1ea6-4a4a-8476-21c720b30cdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/endponts/APIConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/modules/PayloadManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pojos/Auth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pojos/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pojos/BookingDates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pojos/BookingResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pojos/TokenResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/actions/AssertActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/utils/Fakerutils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/endponts/APIConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/endponts/APIConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/modules/PayloadManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/modules/PayloadManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pojos/Auth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pojos/Auth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pojos/Booking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pojos/Booking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pojos/BookingDates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pojos/BookingDates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pojos/BookingResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pojos/BookingResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pojos/TokenResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pojos/TokenResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/actions/AssertActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/actions/AssertActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/base/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/tests/crud/testCreateBooking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/tests/crud/testCreateBooking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/tests/integrationtest/TCIntegration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/tests/integrationtest/TCIntegration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/utils/Fakerutils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/utils/Fakerutils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
